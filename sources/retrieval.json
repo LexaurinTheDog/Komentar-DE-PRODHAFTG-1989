@@ -1,0 +1,10 @@
+{
+  "url": "https://www.gesetze-im-internet.de/prodhaftg/xml.zip",
+  "retrieved_at": "2026-10-19T12:26:39.676094+00:00",
+  "sha256": "76f26694b8411c1dbdabfe90918f985c773dd4b7080d28e184469ea7e330b8f2",
+  "xml_sha256": "a8df978d4c8614f4f54207496039734465353fbb51d3483fe8a63dc25ea2f172",
+  "failed_initial_urls": [
+    "https://www.gesetze-im-internet.de/prodhaftg/prodhaftg.xml"
+  ],
+  "http_status": 200
+}

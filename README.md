@@ -1,0 +1,16 @@
+# Kommentar: Gesetz über die Haftung für fehlerhafte Produkte
+
+Vollständiger deutscher Kommentar zu 19 Paragraphen in 1 Kapiteln. Stand: **2026-10-19**, amtlich abgerufen; Änderungsstand: Zuletzt geändert durch Art. 5 G v. 17.7.2017 I 2421.
+
+**Status: ausgearbeiteter Entwurf; technische Validierung wird in VALIDIERUNG.json dokumentiert. Keine externe fachliche Begutachtung.**
+
+- [Einleitung und Methode](00-einleitung.md)
+- [Inhaltsverzeichnis](INDEX.md)
+- [Amtliche Quellen und Prüfkette](QUELLEN.md)
+- [Verifizierte Rechtsprechung und Recherchegrenzen](RECHTSPRECHUNG.md)
+- [Kapitel- und Vollständigkeitscheckliste](CHECKLISTE.md)
+- [Zusatzprüfung gegen XML](VOLLSTAENDIGKEIT.json)
+
+Der Gesetzestext ist mechanisch aus dem am angegebenen Datum abgerufenen XML von Gesetze im Internet extrahiert. Jede Vorschrift enthält einen eigenständigen Auslegungstext mit Voraussetzungen, Folgen und praktischer Anwendung. Rechtsprechung wird ausschließlich im ausgewiesenen verifizierten Umfang verwendet. Die Recherche beansprucht keine Vollständigkeit.
+
+Kommentartext © 2026 Vojtěch Říha. Lizenz **Apache-2.0**, siehe [LICENSE](LICENSE). Bereitstellung wie vorhanden, keine individuelle Rechtsberatung. [Projektkonto](https://github.com/LexaurinTheDog). Lokales Repository ohne Push.

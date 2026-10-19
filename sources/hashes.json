@@ -1,0 +1,14 @@
+{
+  "recorded_at": "2026-10-19T12:36:02.502587+00:00",
+  "sha256": {
+    "boston-html-empty-response.body": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "boston-pdf-empty-response.body": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "boston-pdf-retrieval.json": "f11101a32ad6d4cbecb5072156a1fab3208657a0a73c708932f99f8fba8bb210",
+    "boston-retrieval.json": "223efc07d5def80e2f92aa9abee48b779a0755eaba0b5af3b3da2e523775088e",
+    "boston-scientific.md": "d4e84dd7162187f80ef60e01eaadbe476391b38519b0694360867ea37cb59d28",
+    "canonical.md": "d457cb2f6c07a87a5f6e2b3d9699b4865ec5d68c912f263bf96cb188818a2966",
+    "official.xml": "a8df978d4c8614f4f54207496039734465353fbb51d3483fe8a63dc25ea2f172",
+    "official.zip": "76f26694b8411c1dbdabfe90918f985c773dd4b7080d28e184469ea7e330b8f2",
+    "retrieval.json": "8557ead59c97dfd9151d79911727b95018894775e3b50bd1380647dff99b42c0"
+  }
+}
