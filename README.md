@@ -2,8 +2,9 @@
 
 Vollständiger deutscher Kommentar zu 19 Paragraphen in 1 Kapiteln. Stand: **2026-10-19**, amtlich abgerufen; Änderungsstand: Zuletzt geändert durch Art. 5 G v. 17.7.2017 I 2421.
 
-**Status: ausgearbeiteter Entwurf; technische Validierung wird in VALIDIERUNG.json dokumentiert. Keine externe fachliche Begutachtung.**
+**Status: ausgearbeiteter Entwurf mit unabhängiger redaktioneller Zweitprüfung; technische Validierung in VALIDIERUNG.json. Keine externe fachliche Begutachtung oder anwaltliche Freigabe.**
 
+- [Unabhängige Zweitprüfung und Korrekturen](REVIEW.md)
 - [Einleitung und Methode](00-einleitung.md)
 - [Inhaltsverzeichnis](INDEX.md)
 - [Amtliche Quellen und Prüfkette](QUELLEN.md)

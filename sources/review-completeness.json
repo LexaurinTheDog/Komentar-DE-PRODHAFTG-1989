@@ -1,0 +1,260 @@
+{
+  "reviewed_at": "2026-10-19T12:41:01.906056+00:00",
+  "official_expected_units": [
+    "§ 1",
+    "§ 2",
+    "§ 3",
+    "§ 4",
+    "§ 5",
+    "§ 6",
+    "§ 7",
+    "§ 8",
+    "§ 9",
+    "§ 10",
+    "§ 11",
+    "§ 12",
+    "§ 13",
+    "§ 14",
+    "§ 15",
+    "§ 16",
+    "§ 17",
+    "§ 18",
+    "§ 19"
+  ],
+  "parsed_units": [
+    "§ 1",
+    "§ 2",
+    "§ 3",
+    "§ 4",
+    "§ 5",
+    "§ 6",
+    "§ 7",
+    "§ 8",
+    "§ 9",
+    "§ 10",
+    "§ 11",
+    "§ 12",
+    "§ 13",
+    "§ 14",
+    "§ 15",
+    "§ 16",
+    "§ 17",
+    "§ 18",
+    "§ 19"
+  ],
+  "missing": [],
+  "duplicates": [],
+  "annexes": [],
+  "repealed": [],
+  "unlabelled_norms": [
+    {
+      "doknr": "BJNR021980989",
+      "metadata": "<metadaten><jurabk>ProdHaftG</jurabk><amtabk>ProdHaftG</amtabk><ausfertigung-datum manuell=\"ja\">1989-12-15</ausfertigung-datum><fundstelle typ=\"amtlich\"><periodikum>BGBl I</periodikum><zitstelle>1989, 2198</zitstelle></fundstelle><kurzue>Produkthaftungsgesetz</kurzue><langue>Gesetz über die Haftung für fehlerhafte Produkte</langue><standangabe checked=\"ja\"><standtyp>Stand</standtyp><standkommentar>Zuletzt geändert durch Art. 5 G v. 17.7.2017 I 2421</standkommentar></standangabe></metadaten>"
+    }
+  ],
+  "all_characters_preserved_without_layout_whitespace": true,
+  "unit_review": [
+    {
+      "unit_id": "p1",
+      "label": "§ 1",
+      "title": "Haftung",
+      "reviewed": true,
+      "source_text_exact": true,
+      "focus": "Verschuldensunabhängigkeit, private Sachverwendung, Entlastungen und Beweislast; Grundstoffverweisung ergänzt.",
+      "commentary_chars": 1799,
+      "findings": [
+        "P-R2"
+      ]
+    },
+    {
+      "unit_id": "p2",
+      "label": "§ 2",
+      "title": "Produkt",
+      "reviewed": true,
+      "source_text_exact": true,
+      "focus": "Bewegliche Sache, Elektrizität und Einbau; geltende Definition vom Reformverfahren abgegrenzt.",
+      "commentary_chars": 1705,
+      "findings": [
+        "P-R1"
+      ]
+    },
+    {
+      "unit_id": "p3",
+      "label": "§ 3",
+      "title": "Fehler",
+      "reviewed": true,
+      "source_text_exact": true,
+      "focus": "Berechtigte Sicherheitserwartung und kein bloßer Fortschrittsfehler; Boston Scientific Rn. 37–43 geprüft.",
+      "commentary_chars": 1507,
+      "findings": []
+    },
+    {
+      "unit_id": "p4",
+      "label": "§ 4",
+      "title": "Hersteller",
+      "reviewed": true,
+      "source_text_exact": true,
+      "focus": "Hersteller, Quasihersteller, EWR-Import und Monatsfrist des Lieferanten geprüft.",
+      "commentary_chars": 1484,
+      "findings": []
+    },
+    {
+      "unit_id": "p5",
+      "label": "§ 5",
+      "title": "Mehrere Ersatzpflichtige",
+      "reviewed": true,
+      "source_text_exact": true,
+      "focus": "Außengesamtschuld und interner Verursachungsausgleich getrennt.",
+      "commentary_chars": 1409,
+      "findings": []
+    },
+    {
+      "unit_id": "p6",
+      "label": "§ 6",
+      "title": "Haftungsminderung",
+      "reviewed": true,
+      "source_text_exact": true,
+      "focus": "Mitverschulden und Zurechnung des Sachgewalthabers gegenüber Dritthandlung abgegrenzt.",
+      "commentary_chars": 1410,
+      "findings": []
+    },
+    {
+      "unit_id": "p7",
+      "label": "§ 7",
+      "title": "Umfang der Ersatzpflicht bei Tötung",
+      "reviewed": true,
+      "source_text_exact": true,
+      "focus": "Heilversuch, Beerdigung, gesetzlicher Unterhalt und Hinterbliebenengeld getrennt geprüft.",
+      "commentary_chars": 1581,
+      "findings": []
+    },
+    {
+      "unit_id": "p8",
+      "label": "§ 8",
+      "title": "Umfang der Ersatzpflicht bei Körperverletzung",
+      "reviewed": true,
+      "source_text_exact": true,
+      "focus": "Wirtschaftliche und immaterielle Schäden; Austauschoperation und Alternative der Deaktivierung präzisiert.",
+      "commentary_chars": 1686,
+      "findings": [
+        "P-R3"
+      ]
+    },
+    {
+      "unit_id": "p9",
+      "label": "§ 9",
+      "title": "Schadensersatz durch Geldrente",
+      "reviewed": true,
+      "source_text_exact": true,
+      "focus": "Zukunftsrente gegenüber einmaligen Schäden und Kapitalisierungsvoraussetzungen abgegrenzt.",
+      "commentary_chars": 1315,
+      "findings": []
+    },
+    {
+      "unit_id": "p10",
+      "label": "§ 10",
+      "title": "Haftungshöchstbetrag",
+      "reviewed": true,
+      "source_text_exact": true,
+      "focus": "85-Millionen-Grenze für Personenschäden derselben Fehlergruppe und proportionale Kürzung geprüft.",
+      "commentary_chars": 1356,
+      "findings": []
+    },
+    {
+      "unit_id": "p11",
+      "label": "§ 11",
+      "title": "Selbstbeteiligung bei Sachbeschädigung",
+      "reviewed": true,
+      "source_text_exact": true,
+      "focus": "500-Euro-Selbstbehalt als Abzug, kein Freigrenzenmodell; Personenschäden ausgenommen.",
+      "commentary_chars": 1265,
+      "findings": []
+    },
+    {
+      "unit_id": "p12",
+      "label": "§ 12",
+      "title": "Verjährung",
+      "reviewed": true,
+      "source_text_exact": true,
+      "focus": "Kenntnis aller drei Umstände, zeitpunktbezogener Beginn und Hemmung geprüft; eigenes Kenntniskriterium klargestellt.",
+      "commentary_chars": 1562,
+      "findings": [
+        "P-R4"
+      ]
+    },
+    {
+      "unit_id": "p13",
+      "label": "§ 13",
+      "title": "Erlöschen von Ansprüchen",
+      "reviewed": true,
+      "source_text_exact": true,
+      "focus": "Zehnjähriges Erlöschen und Ausnahmen für Verfahren, Titel, Vergleich und Anerkenntnis geprüft.",
+      "commentary_chars": 1378,
+      "findings": []
+    },
+    {
+      "unit_id": "p14",
+      "label": "§ 14",
+      "title": "Unabdingbarkeit",
+      "reviewed": true,
+      "source_text_exact": true,
+      "focus": "Vorweggenommene Haftungsbeschränkung gegenüber nachträglichem Vergleich und Innenregress abgegrenzt.",
+      "commentary_chars": 1361,
+      "findings": []
+    },
+    {
+      "unit_id": "p15",
+      "label": "§ 15",
+      "title": "Arzneimittelhaftung, Haftung nach anderen Rechtsvorschriften",
+      "reviewed": true,
+      "source_text_exact": true,
+      "focus": "Arzneimittelausnahme kumulativ und parallele Anspruchsgrundlagen getrennt geprüft.",
+      "commentary_chars": 1479,
+      "findings": []
+    },
+    {
+      "unit_id": "p16",
+      "label": "§ 16",
+      "title": "Übergangsvorschrift",
+      "reviewed": true,
+      "source_text_exact": true,
+      "focus": "Inverkehrbringen vor 1.1.1990, Verhältnis zu Erlöschen und anderen Anspruchsgrundlagen geprüft.",
+      "commentary_chars": 967,
+      "findings": [
+        "P-R1"
+      ]
+    },
+    {
+      "unit_id": "p17",
+      "label": "§ 17",
+      "title": "Erlaß von Rechtsverordnungen",
+      "reviewed": true,
+      "source_text_exact": true,
+      "focus": "Begrenzte Verordnungsermächtigung, keine fingierte Betragsanpassung; Reformkontext gesondert dokumentiert.",
+      "commentary_chars": 1068,
+      "findings": [
+        "P-R1"
+      ]
+    },
+    {
+      "unit_id": "p18",
+      "label": "§ 18",
+      "title": "Berlin-Klausel",
+      "reviewed": true,
+      "source_text_exact": true,
+      "focus": "Historische Berlin-Klausel erhalten, keine gegenwärtige territoriale Ausschlusswirkung behauptet.",
+      "commentary_chars": 875,
+      "findings": []
+    },
+    {
+      "unit_id": "p19",
+      "label": "§ 19",
+      "title": "Inkrafttreten",
+      "reviewed": true,
+      "source_text_exact": true,
+      "focus": "Inkrafttreten 1.1.1990 gegenüber Ausfertigung und späteren Änderungsfassungen unterschieden.",
+      "commentary_chars": 881,
+      "findings": []
+    }
+  ]
+}

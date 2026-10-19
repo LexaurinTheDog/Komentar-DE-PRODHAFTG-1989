@@ -1,0 +1,21 @@
+{
+  "url": "https://www.gesetze-im-internet.de/prodhaftg/xml.zip",
+  "http_status": 200,
+  "retrieved_at": "2026-10-19T12:37:30.735651+00:00",
+  "sha256": "76f26694b8411c1dbdabfe90918f985c773dd4b7080d28e184469ea7e330b8f2",
+  "xml_sha256": "a8df978d4c8614f4f54207496039734465353fbb51d3483fe8a63dc25ea2f172",
+  "identical_to_author_xml": true,
+  "headers": {
+    "Date": "Mon, 19 Oct 2026 12:37:30 GMT",
+    "Server": "Apache",
+    "Last-Modified": "Wed, 06 May 2026 15:50:24 GMT",
+    "ETag": "\"132b-651281f34af42\"",
+    "Accept-Ranges": "bytes",
+    "Content-Length": "4907",
+    "X-Content-Type-Options": "nosniff",
+    "X-Frame-Options": "sameorigin",
+    "X-XSS-Protection": "1; mode=block",
+    "Content-Type": "application/zip",
+    "Connection": "close"
+  }
+}

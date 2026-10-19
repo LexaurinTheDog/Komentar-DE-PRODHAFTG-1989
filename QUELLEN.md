@@ -24,3 +24,11 @@ Der unabhängige Zeichenvergleich gegen den gesamten XML-Inhalt jeder materielle
 ## Recherche
 
 Die tatsächlich ausgeführten Suchansätze, erfolgreichen amtlichen Volltexte und fehlgeschlagenen Zugriffe sind in [RECHTSPRECHUNG.md](RECHTSPRECHUNG.md) beschrieben. Keine flächendeckende Rechtsprechungsauswertung; keine Aussage über das Nichtvorhandensein weiterer Entscheidungen.
+
+## Reformstand und zeitliche Abgrenzung
+
+Die erneute amtliche XML-Abfrage am 19.10.2026 liefert denselben Wortlaut wie die Autorenquelle. Unabhängig davon dokumentiert der [Deutsche Bundestag](https://www.bundestag.de/dokumente/textarchiv/2026/kw41-de-produkthaftungsrecht-1222456) die Annahme des Reformgesetzentwurfs am 8.10.2026. Diese parlamentarische Quelle wird als Verfahrensnachweis verwendet; sie ersetzt weder einen Verkündungsbeleg noch die Prüfung des Inkrafttretens und der Anwendungsbestimmungen einer nationalen Neuregelung.
+
+Die [Richtlinie (EU) 2024/2853](https://eur-lex.europa.eu/eli/dir/2024/2853/oj/deu) ist davon getrennt: Artikel 2 Absatz 1 betrifft Produkte, die nach dem 9.12.2026 in Verkehr gebracht oder in Betrieb genommen werden. Artikel 21 hebt die frühere Richtlinie mit Wirkung vom 9.12.2026 auf, erhält sie aber für zuvor in Verkehr gebrachte oder in Betrieb genommene Produkte. Artikel 22 setzt den Mitgliedstaaten eine Umsetzungsfrist bis zum 9.12.2026. Aus dieser Richtlinie allein folgt keine bereits am 19.10.2026 vollzogene Erweiterung des hier zitierten deutschen § 2. Grenzfälle am Stichtag sind anhand des maßgeblichen nationalen Anwendungsrechts zu prüfen.
+
+Gesicherte Lesetexte: [Bundestag](sources/review-bundestag-reform.md), [Richtlinie](sources/review-richtlinie-2024-2853.md). Die Zweitprüfung gibt keine vollständige Kommentierung des Reformrechts und keine umfassende Verkündungsrecherche aus.

@@ -1,0 +1,110 @@
+[
+  {
+    "path": "boston-html-empty-response.body",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "bytes": 0,
+    "recorded_at": "2026-10-19T12:41:01.906056+00:00"
+  },
+  {
+    "path": "boston-pdf-empty-response.body",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "bytes": 0,
+    "recorded_at": "2026-10-19T12:41:01.906056+00:00"
+  },
+  {
+    "path": "boston-pdf-retrieval.json",
+    "sha256": "f11101a32ad6d4cbecb5072156a1fab3208657a0a73c708932f99f8fba8bb210",
+    "bytes": 244,
+    "recorded_at": "2026-10-19T12:41:01.906056+00:00"
+  },
+  {
+    "path": "boston-retrieval.json",
+    "sha256": "223efc07d5def80e2f92aa9abee48b779a0755eaba0b5af3b3da2e523775088e",
+    "bytes": 336,
+    "recorded_at": "2026-10-19T12:41:01.906056+00:00"
+  },
+  {
+    "path": "boston-scientific.md",
+    "sha256": "d4e84dd7162187f80ef60e01eaadbe476391b38519b0694360867ea37cb59d28",
+    "bytes": 59427,
+    "recorded_at": "2026-10-19T12:41:01.906056+00:00"
+  },
+  {
+    "path": "canonical.md",
+    "sha256": "d457cb2f6c07a87a5f6e2b3d9699b4865ec5d68c912f263bf96cb188818a2966",
+    "bytes": 10887,
+    "recorded_at": "2026-10-19T12:41:01.906056+00:00"
+  },
+  {
+    "path": "hashes.json",
+    "sha256": "f0daa50383998bb91c70a3c2bce13fad1f5eaaca35ae0c4d44c99453d87928d8",
+    "bytes": 934,
+    "recorded_at": "2026-10-19T12:41:01.906056+00:00"
+  },
+  {
+    "path": "official.xml",
+    "sha256": "a8df978d4c8614f4f54207496039734465353fbb51d3483fe8a63dc25ea2f172",
+    "bytes": 16926,
+    "recorded_at": "2026-10-19T12:41:01.906056+00:00"
+  },
+  {
+    "path": "official.zip",
+    "sha256": "76f26694b8411c1dbdabfe90918f985c773dd4b7080d28e184469ea7e330b8f2",
+    "bytes": 4907,
+    "recorded_at": "2026-10-19T12:41:01.906056+00:00"
+  },
+  {
+    "path": "retrieval.json",
+    "sha256": "8557ead59c97dfd9151d79911727b95018894775e3b50bd1380647dff99b42c0",
+    "bytes": 404,
+    "recorded_at": "2026-10-19T12:41:01.906056+00:00"
+  },
+  {
+    "path": "review-bundestag-reform.md",
+    "sha256": "666aa7983b153be2a84d3c436ced24d19bd187ff0dc0f014993e06e0396c4a8e",
+    "bytes": 140911,
+    "recorded_at": "2026-10-19T12:41:01.906056+00:00"
+  },
+  {
+    "path": "review-completeness.json",
+    "sha256": "4b5c25dbee70d43fee23086f4f2e15baeac1ebf32c3dd92717e18616e98c8a1a",
+    "bytes": 7683,
+    "recorded_at": "2026-10-19T12:41:01.906056+00:00"
+  },
+  {
+    "path": "review-official.xml",
+    "sha256": "a8df978d4c8614f4f54207496039734465353fbb51d3483fe8a63dc25ea2f172",
+    "bytes": 16926,
+    "recorded_at": "2026-10-19T12:41:01.906056+00:00"
+  },
+  {
+    "path": "review-official.zip",
+    "sha256": "76f26694b8411c1dbdabfe90918f985c773dd4b7080d28e184469ea7e330b8f2",
+    "bytes": 4907,
+    "recorded_at": "2026-10-19T12:41:01.906056+00:00"
+  },
+  {
+    "path": "review-retrieval.json",
+    "sha256": "492be0badc7119d740f36a45788f575deb3b62126e28c882a1ed1faa8ac6a4bd",
+    "bytes": 767,
+    "recorded_at": "2026-10-19T12:41:01.906056+00:00"
+  },
+  {
+    "path": "review-richtlinie-2024-2853.md",
+    "sha256": "d1ccee1b1d30270e2f911a023dd0a46098a7747d04fc343507d5d167c4820ce3",
+    "bytes": 143255,
+    "recorded_at": "2026-10-19T12:41:01.906056+00:00"
+  },
+  {
+    "path": "review-search-log.json",
+    "sha256": "8d34a8dd7d274f1dd3e5e482ce7cea2a31947e3548398c026bb5385352672489",
+    "bytes": 667,
+    "recorded_at": "2026-10-19T12:41:01.906056+00:00"
+  },
+  {
+    "path": "verification.json",
+    "sha256": "5a84ec5faffcbd4ab9120fb857e11464e3b97b51f1e6f2bf30b4dce173643c3e",
+    "bytes": 1560,
+    "recorded_at": "2026-10-19T12:41:01.906056+00:00"
+  }
+]
