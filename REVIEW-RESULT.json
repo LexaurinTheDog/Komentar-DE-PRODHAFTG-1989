@@ -1,0 +1,112 @@
+{
+  "complete": true,
+  "units_reviewed": 19,
+  "unresolved_blockers": [],
+  "findings": [
+    {
+      "id": "P-R1",
+      "severity": "medium",
+      "units": [
+        "p2",
+        "p16",
+        "p17"
+      ],
+      "finding": "Der laufende Reformprozess war für einen ausdrücklich aktuellen Kommentar nicht sichtbar eingeordnet.",
+      "correction": "Gesonderte Reformquellenkarte und Einleitung ergänzt: Bundestagsbeschluss vom 8.10.2026, Richtlinienübergang und unverändert abgerufener Gesetzestext werden getrennt. Keine Neufassung als bereits geltend ausgegeben.",
+      "evidence": [
+        "sources/review-bundestag-reform.md",
+        "sources/review-richtlinie-2024-2853.md",
+        "sources/review-retrieval.json"
+      ],
+      "status": "resolved"
+    },
+    {
+      "id": "P-R2",
+      "severity": "low",
+      "units": [
+        "p1"
+      ],
+      "finding": "Entlastung des Grundstoffherstellers nach § 1 Abs. 3 Satz 2 nicht ausdrücklich erläutert.",
+      "correction": "Entsprechende Anwendung auf Grundstoffhersteller ergänzt.",
+      "evidence": [
+        "sources/official.xml"
+      ],
+      "status": "resolved"
+    },
+    {
+      "id": "P-R3",
+      "severity": "low",
+      "units": [
+        "p8"
+      ],
+      "finding": "Die konkrete Unterscheidung Herzschrittmacher/Defibrillator im verwendeten Urteil konnte die Erforderlichkeitsprüfung anschaulicher begrenzen.",
+      "correction": "Alternative Deaktivierung der Magnetfunktion und Rn. 51–54 ausdrücklich ergänzt.",
+      "evidence": [
+        "sources/boston-scientific.md"
+      ],
+      "status": "resolved"
+    },
+    {
+      "id": "P-R4",
+      "severity": "low",
+      "units": [
+        "p12"
+      ],
+      "finding": "Eigenes Kenntniskriterium gegenüber allgemeiner BGB-Verjährung musste deutlicher abgegrenzt werden.",
+      "correction": "Keine ungeprüfte Übernahme des Jahresendes oder eines nur grob fahrlässigen Unkenntnismaßstabs klargestellt.",
+      "evidence": [
+        "sources/official.xml"
+      ],
+      "status": "resolved"
+    }
+  ],
+  "limitations": [
+    "Unabhängige redaktionelle Zweitprüfung eines anderen Autorenmanuskripts; keine externe anwaltliche oder wissenschaftliche Freigabe.",
+    "Gezielte amtliche Rechtsprechungsprüfung, keine erschöpfende Suche zu jeder Vorschrift und keine Negativbehauptung über weitere Entscheidungen.",
+    "Keine vollständige historische Fassungsprüfung und keine Vollkommentierung sämtlicher Verweisungsnormen.",
+    "Technische Vollständigkeit und Mindestlänge sind keine eigenständigen Nachweise materieller Richtigkeit.",
+    "Reformstand gezielt geprüft und abgegrenzt; keine vollständige Kommentierung zukünftigen Rechts oder erschöpfende Verkündungsrecherche."
+  ],
+  "reviewed_at": "2026-10-19T12:41:55.643634+00:00",
+  "mode": "independent_second_pass_of_other_author",
+  "unit_review_evidence": "sources/review-completeness.json",
+  "source_reverification": {
+    "url": "https://www.gesetze-im-internet.de/prodhaftg/xml.zip",
+    "http_status": 200,
+    "retrieved_at": "2026-10-19T12:37:30.735651+00:00",
+    "sha256": "76f26694b8411c1dbdabfe90918f985c773dd4b7080d28e184469ea7e330b8f2",
+    "xml_sha256": "a8df978d4c8614f4f54207496039734465353fbb51d3483fe8a63dc25ea2f172",
+    "identical_to_author_xml": true,
+    "headers": {
+      "Date": "Mon, 19 Oct 2026 12:37:30 GMT",
+      "Server": "Apache",
+      "Last-Modified": "Wed, 06 May 2026 15:50:24 GMT",
+      "ETag": "\"132b-651281f34af42\"",
+      "Accept-Ranges": "bytes",
+      "Content-Length": "4907",
+      "X-Content-Type-Options": "nosniff",
+      "X-Frame-Options": "sameorigin",
+      "X-XSS-Protection": "1; mode=block",
+      "Content-Type": "application/zip",
+      "Connection": "close"
+    }
+  },
+  "validation": {
+    "repo": "Komentar-DE-PRODHAFTG-1989",
+    "units": 19,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 26088,
+    "errors": [],
+    "warnings": [],
+    "ok": true
+  },
+  "validated_manuscript_commit": "b4be39fe6b5e41fc849b92b5535c48a18966e355",
+  "additional_checks": {
+    "local_links_checked": 24,
+    "missing_links": [],
+    "license_matches_canonical": true,
+    "all_review_findings_resolved": true,
+    "review_units": 19
+  },
+  "external_professional_approval": false
+}
