@@ -1,0 +1,76 @@
+{
+  "validated_at": "2026-10-19T12:36:34.850702+00:00",
+  "strict_validator": {
+    "repo": "Komentar-DE-PRODHAFTG-1989",
+    "units": 19,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 25061,
+    "errors": [],
+    "warnings": [],
+    "ok": true
+  },
+  "additional_checks": {
+    "xml": {
+      "xml_statutory_units": 19,
+      "parsed_units": 19,
+      "ids": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5",
+        "p6",
+        "p7",
+        "p8",
+        "p9",
+        "p10",
+        "p11",
+        "p12",
+        "p13",
+        "p14",
+        "p15",
+        "p16",
+        "p17",
+        "p18",
+        "p19"
+      ],
+      "duplicate_ids": false,
+      "annexes": 0,
+      "repealed_units": [],
+      "xml_character_sequence_mismatches": [],
+      "all_units_nonempty": true,
+      "intake_comparison": {
+        "path": "/Volumes/LaCie/law-intake/eu/de/gesetze/gii-prodhaftg.md",
+        "same_last_amendment": true,
+        "units_not_contiguous_ignoring_whitespace": [],
+        "note": "Markdown-Layout kann Vergleich erschweren; maßgeblich ist der vollständige direkte XML-Zeichenvergleich."
+      },
+      "ok": true
+    },
+    "commentary_exact_id_coverage": true,
+    "local_markdown_links_ok": true,
+    "source_copies_identical": true,
+    "commentary_lengths": {
+      "p1": 1655,
+      "p2": 1332,
+      "p3": 1507,
+      "p4": 1484,
+      "p5": 1409,
+      "p6": 1410,
+      "p7": 1581,
+      "p8": 1382,
+      "p9": 1315,
+      "p10": 1356,
+      "p11": 1265,
+      "p12": 1356,
+      "p13": 1378,
+      "p14": 1361,
+      "p15": 1479,
+      "p16": 967,
+      "p17": 1068,
+      "p18": 875,
+      "p19": 881
+    }
+  },
+  "substantive_review": "Alle Paragraphen redaktionell auf Tatbestand, Folge, Systembezug und Anwendungsrisiko durchgesehen; kein unabhängiges fachliches Peer Review. Länge ist kein Qualitätsnachweis."
+}
